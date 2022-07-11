@@ -46,13 +46,29 @@
             "search": {
               "name": "search",
               "isOrdered": true,
-              "folders": {},
+              "folders": {
+                "search_button_icon_right": {
+                  "name": "search_button_icon_right",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {
+                    "note": 0
+                  }
+                }
+              },
               "files": {}
             },
             "images": {
               "name": "images",
               "isOrdered": true,
-              "folders": {},
+              "folders": {
+                "image_custom": {
+                  "name": "image_custom",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                }
+              },
               "files": {
                 "note": 0
               }
