@@ -1,0 +1,86 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "android": {
+      "name": "android",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "ios": {
+      "name": "ios",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "src": {
+      "name": "src",
+      "isOrdered": true,
+      "folders": {
+        "components": {
+          "name": "components",
+          "isOrdered": true,
+          "folders": {
+            "button": {
+              "name": "button",
+              "isOrdered": true,
+              "folders": {
+                "button_icon": {
+                  "name": "button_icon",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                },
+                "button_text": {
+                  "name": "button_text",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                }
+              },
+              "files": {
+                "note": 0
+              }
+            },
+            "search": {
+              "name": "search",
+              "isOrdered": true,
+              "folders": {},
+              "files": {}
+            },
+            "images": {
+              "name": "images",
+              "isOrdered": true,
+              "folders": {},
+              "files": {
+                "note": 0
+              }
+            }
+          },
+          "files": {}
+        },
+        "services": {
+          "name": "services",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {}
+    },
+    "__tests__": {
+      "name": "__tests__",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "assets": {
+      "name": "assets",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {}
+}
